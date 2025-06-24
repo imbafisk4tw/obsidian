@@ -1,0 +1,352 @@
+{
+  "vaultName": "Novelty",
+  "lastExport": 1750752484585,
+  "pluginVersion": "1.8.01",
+  "validBodyClasses": "publish css-settings-manager theme-light show-inline-title show-ribbon",
+  "useCustomHeadContent": false,
+  "useCustomFavicon": false,
+  "files": [
+    "Flo n8n/close-up-face.jpg",
+    "Flo n8n/close-up-nose.jpg",
+    "Flo n8n/higgsfield_piercing_review_pic.jpeg",
+    "Flo n8n/Leonardo_Kino_XL_Create_a_different_face_of_a_woman_but_keep_t_0.jpg",
+    "Flo n8n/Leonardo_Kino_XL_Create_a_different_face_of_a_woman_but_keep_t_2.jpg",
+    "Flo n8n/Produkte.md",
+    "Flo n8n/rotating-ring.mp4",
+    "Flo n8n/Side cut 2.png",
+    "Flo n8n/Side Cut 2_ source.jpg",
+    "Flo n8n/sidecut hair and piercings.png",
+    "Flo n8n/sidecut hair and piercings_source.jpg",
+    "Flo n8n/Single_Piercing.jpg",
+    "Flo n8n/Single_Piercing_upscaled.jpg",
+    "Flo n8n/wooden-ear-tunnel-video.mp4",
+    "lib/scripts/graph-wasm.wasm",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/6155340132a851f6089e.svg",
+    "lib/html/file-tree.html",
+    "lib/scripts/webpage.js",
+    "lib/scripts/graph-view.js",
+    "lib/scripts/graph-wasm.js",
+    "lib/scripts/graph-render-worker.js",
+    "lib/scripts/tinycolor.js",
+    "lib/scripts/pixi.js",
+    "lib/scripts/minisearch.js",
+    "lib/media/favicon.png",
+    "lib/scripts/graph-data.js",
+    "lib/styles/obsidian.css",
+    "lib/styles/theme.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/supported-plugins.css",
+    "lib/styles/main-styles.css"
+  ],
+  "mainDependencies": [
+    "lib/scripts/graph-wasm.wasm",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/6155340132a851f6089e.svg",
+    "lib/html/file-tree.html",
+    "lib/scripts/webpage.js",
+    "lib/scripts/graph-view.js",
+    "lib/scripts/graph-wasm.js",
+    "lib/scripts/graph-render-worker.js",
+    "lib/scripts/tinycolor.js",
+    "lib/scripts/pixi.js",
+    "lib/scripts/minisearch.js",
+    "lib/media/favicon.png",
+    "lib/scripts/graph-data.js",
+    "lib/styles/obsidian.css",
+    "lib/styles/theme.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/supported-plugins.css",
+    "lib/styles/main-styles.css"
+  ],
+  "fileInfo": {
+    "Flo n8n/close-up-face.jpg": {
+      "modifiedTime": 1750752484585,
+      "sourceSize": 70376,
+      "exportedPath": "flo-n8n/close-up-face.jpg",
+      "dependencies": []
+    },
+    "Flo n8n/close-up-nose.jpg": {
+      "modifiedTime": 1750752484585,
+      "sourceSize": 35201,
+      "exportedPath": "flo-n8n/close-up-nose.jpg",
+      "dependencies": []
+    },
+    "Flo n8n/higgsfield_piercing_review_pic.jpeg": {
+      "modifiedTime": 1750752484585,
+      "sourceSize": 1881558,
+      "exportedPath": "flo-n8n/higgsfield_piercing_review_pic.jpeg",
+      "dependencies": []
+    },
+    "Flo n8n/Leonardo_Kino_XL_Create_a_different_face_of_a_woman_but_keep_t_0.jpg": {
+      "modifiedTime": 1750752484585,
+      "sourceSize": 525199,
+      "exportedPath": "flo-n8n/leonardo_kino_xl_create_a_different_face_of_a_woman_but_keep_t_0.jpg",
+      "dependencies": []
+    },
+    "Flo n8n/Leonardo_Kino_XL_Create_a_different_face_of_a_woman_but_keep_t_2.jpg": {
+      "modifiedTime": 1750752484585,
+      "sourceSize": 522068,
+      "exportedPath": "flo-n8n/leonardo_kino_xl_create_a_different_face_of_a_woman_but_keep_t_2.jpg",
+      "dependencies": []
+    },
+    "Flo n8n/Produkte.md": {
+      "modifiedTime": 1750752484585,
+      "sourceSize": 1947,
+      "exportedPath": "flo-n8n/produkte.html",
+      "dependencies": []
+    },
+    "Flo n8n/rotating-ring.mp4": {
+      "modifiedTime": 1750752484585,
+      "sourceSize": 7311636,
+      "exportedPath": "flo-n8n/rotating-ring.mp4",
+      "dependencies": []
+    },
+    "Flo n8n/Side cut 2.png": {
+      "modifiedTime": 1750752484585,
+      "sourceSize": 682479,
+      "exportedPath": "flo-n8n/side-cut-2.png",
+      "dependencies": []
+    },
+    "Flo n8n/Side Cut 2_ source.jpg": {
+      "modifiedTime": 1750752484585,
+      "sourceSize": 79070,
+      "exportedPath": "flo-n8n/side-cut-2_-source.jpg",
+      "dependencies": []
+    },
+    "Flo n8n/sidecut hair and piercings.png": {
+      "modifiedTime": 1750752484585,
+      "sourceSize": 646818,
+      "exportedPath": "flo-n8n/sidecut-hair-and-piercings.png",
+      "dependencies": []
+    },
+    "Flo n8n/sidecut hair and piercings_source.jpg": {
+      "modifiedTime": 1750752484585,
+      "sourceSize": 58384,
+      "exportedPath": "flo-n8n/sidecut-hair-and-piercings_source.jpg",
+      "dependencies": []
+    },
+    "Flo n8n/Single_Piercing.jpg": {
+      "modifiedTime": 1750752484585,
+      "sourceSize": 14204,
+      "exportedPath": "flo-n8n/single_piercing.jpg",
+      "dependencies": []
+    },
+    "Flo n8n/Single_Piercing_upscaled.jpg": {
+      "modifiedTime": 1750752484585,
+      "sourceSize": 130168,
+      "exportedPath": "flo-n8n/single_piercing_upscaled.jpg",
+      "dependencies": []
+    },
+    "Flo n8n/wooden-ear-tunnel-video.mp4": {
+      "modifiedTime": 1750752484585,
+      "sourceSize": 10637070,
+      "exportedPath": "flo-n8n/wooden-ear-tunnel-video.mp4",
+      "dependencies": []
+    },
+    "lib/scripts/graph-wasm.wasm": {
+      "modifiedTime": 1750752484585,
+      "sourceSize": 23377,
+      "exportedPath": "lib/scripts/graph-wasm.wasm",
+      "dependencies": []
+    },
+    "lib/fonts/94f2f163d4b698242fef.otf": {
+      "modifiedTime": 1750752484585,
+      "sourceSize": 66800,
+      "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
+      "dependencies": []
+    },
+    "lib/fonts/72505e6a122c6acd5471.woff2": {
+      "modifiedTime": 1750752484585,
+      "sourceSize": 104232,
+      "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/2d5198822ab091ce4305.woff2": {
+      "modifiedTime": 1750752484585,
+      "sourceSize": 104332,
+      "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
+      "modifiedTime": 1750752484585,
+      "sourceSize": 98868,
+      "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cb10ffd7684cd9836a05.woff2": {
+      "modifiedTime": 1750752484585,
+      "sourceSize": 106876,
+      "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/b5f0f109bc88052d4000.woff2": {
+      "modifiedTime": 1750752484585,
+      "sourceSize": 105804,
+      "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cbe0ae49c52c920fd563.woff2": {
+      "modifiedTime": 1750752484585,
+      "sourceSize": 106108,
+      "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/535a6cf662596b3bd6a6.woff2": {
+      "modifiedTime": 1750752484585,
+      "sourceSize": 111708,
+      "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/70cc7ff27245e82ad414.ttf": {
+      "modifiedTime": 1750752484585,
+      "sourceSize": 192740,
+      "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/454577c22304619db035.ttf": {
+      "modifiedTime": 1750752484585,
+      "sourceSize": 161376,
+      "exportedPath": "lib/fonts/454577c22304619db035.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/52ac8f3034507f1d9e53.ttf": {
+      "modifiedTime": 1750752484585,
+      "sourceSize": 191568,
+      "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/05b618077343fbbd92b7.ttf": {
+      "modifiedTime": 1750752484585,
+      "sourceSize": 155288,
+      "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
+      "modifiedTime": 1750752484585,
+      "sourceSize": 7876,
+      "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+      "dependencies": []
+    },
+    "lib/media/6155340132a851f6089e.svg": {
+      "modifiedTime": 1750752484585,
+      "sourceSize": 315,
+      "exportedPath": "lib/media/6155340132a851f6089e.svg",
+      "dependencies": []
+    },
+    "lib/html/file-tree.html": {
+      "modifiedTime": 1750752484585,
+      "sourceSize": 6646,
+      "exportedPath": "lib/html/file-tree.html",
+      "dependencies": []
+    },
+    "lib/scripts/webpage.js": {
+      "modifiedTime": 1750752484585,
+      "sourceSize": 47290,
+      "exportedPath": "lib/scripts/webpage.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-view.js": {
+      "modifiedTime": 1750752484585,
+      "sourceSize": 15519,
+      "exportedPath": "lib/scripts/graph-view.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-wasm.js": {
+      "modifiedTime": 1750752484585,
+      "sourceSize": 14021,
+      "exportedPath": "lib/scripts/graph-wasm.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-render-worker.js": {
+      "modifiedTime": 1750752484585,
+      "sourceSize": 5179,
+      "exportedPath": "lib/scripts/graph-render-worker.js",
+      "dependencies": []
+    },
+    "lib/scripts/tinycolor.js": {
+      "modifiedTime": 1750752484585,
+      "sourceSize": 29832,
+      "exportedPath": "lib/scripts/tinycolor.js",
+      "dependencies": []
+    },
+    "lib/scripts/pixi.js": {
+      "modifiedTime": 1750752484585,
+      "sourceSize": 449509,
+      "exportedPath": "lib/scripts/pixi.js",
+      "dependencies": []
+    },
+    "lib/scripts/minisearch.js": {
+      "modifiedTime": 1750752484585,
+      "sourceSize": 29422,
+      "exportedPath": "lib/scripts/minisearch.js",
+      "dependencies": []
+    },
+    "lib/media/favicon.png": {
+      "modifiedTime": 1750752484585,
+      "sourceSize": 1105,
+      "exportedPath": "lib/media/favicon.png",
+      "dependencies": []
+    },
+    "lib/scripts/graph-data.js": {
+      "modifiedTime": 1750752484585,
+      "sourceSize": 280,
+      "exportedPath": "lib/scripts/graph-data.js",
+      "dependencies": []
+    },
+    "lib/styles/obsidian.css": {
+      "modifiedTime": 1750752484585,
+      "sourceSize": 138359,
+      "exportedPath": "lib/styles/obsidian.css",
+      "dependencies": []
+    },
+    "lib/styles/theme.css": {
+      "modifiedTime": 1750752484585,
+      "sourceSize": 12138,
+      "exportedPath": "lib/styles/theme.css",
+      "dependencies": []
+    },
+    "lib/styles/global-variable-styles.css": {
+      "modifiedTime": 1750752484585,
+      "sourceSize": 262,
+      "exportedPath": "lib/styles/global-variable-styles.css",
+      "dependencies": []
+    },
+    "lib/styles/supported-plugins.css": {
+      "modifiedTime": 1750752484585,
+      "sourceSize": 68,
+      "exportedPath": "lib/styles/supported-plugins.css",
+      "dependencies": []
+    },
+    "lib/styles/main-styles.css": {
+      "modifiedTime": 1750752484585,
+      "sourceSize": 23130,
+      "exportedPath": "lib/styles/main-styles.css",
+      "dependencies": []
+    }
+  }
+}
